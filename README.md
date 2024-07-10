@@ -1,4 +1,4 @@
-# PacMan Arduino
+# Cabinato Arduino
 
 ## Introduction
 This project implements a version of PacMan, Snake & Tetris for the Arduino platform, utilizing an OLED display for graphics. It includes a simple main menu for game selection and offers a nostalgic gaming experience on a microcontroller.
